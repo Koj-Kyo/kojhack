@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning backend
-- 👯 I’m looking to collaborate on projects 
+- 🌱 I’m currently learning Java/Python
+- 👯 I’m looking to collaborate on Java app projects
+- 🤔 I’m looking for help with development of projects
 - 💬 Ask me about Tech
 - 📫 How to reach me: www.linkedin.com/in/ohini-jérémie-kuakuvi-a106b128a 
 - 😄 Pronouns: He/Him
@@ -27,8 +28,8 @@
 
 Added the `Fri 03 May 2024`
 
-Last update on Mon Jan 13 2025
+Last update on Thu Jan 16 2025
 
-**353 day before 2026 ⏱** days before new years
+**350 day before 2026 ⏱** days before new years
 
-🤖 This README.md is updated with wickedness, by Gabot ❤️
+🤖 This README.md is updated with cruelty, by Gabot ❤️
